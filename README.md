@@ -1,2 +1,2 @@
-# react-components
+# JSX-intro
 Created with CodeSandbox
